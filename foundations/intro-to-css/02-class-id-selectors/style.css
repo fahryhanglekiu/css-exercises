@@ -1,0 +1,19 @@
+.odd-styles{
+    background-color: lightpink;
+    font-family: Verdana, Dejavu, sans-serif;   
+}
+
+.cooler-odd-styles{
+    font-size: 24px;
+}
+
+#first-id-style{
+    font-size: 36px;
+    color: blue;
+}
+
+#second-id-style{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
